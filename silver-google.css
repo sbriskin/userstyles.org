@@ -1,4 +1,4 @@
-@-moz-document domain("google.com"), domain("encrypted.google.com"), domain("google.ru") {
+@-moz-document regexp("^https?://(www.|images.|encrypted.)*google\\.(com|.{2}|.{2}\\..{2})(/|\\?|$).*") {
   /*
   Restyling of Google's start page
 
