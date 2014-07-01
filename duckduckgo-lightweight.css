@@ -43,57 +43,7 @@
     a{
         color: #474747!important;
     }
-    #header{
-        background-image:none!important;
-        background-color:#FAFAFA!important;
-    }
-    #header_content{
-        max-width:100%!important;
-        width:100%!important;
-        padding:0px!important;
-    }
-    #header_wrapper{
-        position:relative!important;
-    }
-    h2{
-        font-weight:bold!important;
-    }
-    #search_form_input_homepage, #search_form_input, #search_form_input_clear {
-        box-shadow: none!important;
-        border-color:#D7D7D7!important;
-    }
-    #search_form{
-        margin: 25px auto 25px auto!important;
-        float:none!important;
-        width:828px!important;
-        border:0px!important;
-    }
-    #search_form_input{
-        width:719px!important;
-    }
-    
-    #side{
-        padding: 25px!important;
-        border-left:1px #D7D7D7 dashed !important;
-  		display: none !important;
-    }
-    #side_suggestions{
-        padding-top:0px!important;
-    }
-    #loading{
-        width:16px!important;
-        margin:10px auto!important;
-    }
-    #content{
-        margin-top:0px!important;
-        padding-top:0px!important;
-    }
-    .results_links_deep{
-        border:0px!important;
-    }
-	div.icon_fav,
-	div.icon_fav1,
-	div.icon_fav2{
-  		display: none !important;
-	}
+    /*
+        Removed code for old elements
+    */
 }
