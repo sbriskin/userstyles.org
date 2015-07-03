@@ -86,8 +86,8 @@
         text-align: center;
     }
     #content {
-        padding: 2em;
-        width: 780px;
+        padding: auto;
+        width: 100%;
     }
     #content h2 {
         margin: 0 0 0.5em 0;
@@ -294,6 +294,9 @@
         display:block;
     }
     header {
+        display: none;
+    }
+    aside {
         display: none;
     }
     aside.sidebar {
