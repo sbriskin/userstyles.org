@@ -3,7 +3,7 @@
   Restyling of Whatsapp webapp.
 
   Source code:
-  https://userstyles.org/styles/141440/graymazing-whatsapp
+  https://userstyles.org/styles/141440/greymazing-whatsapp
   https://github.com/sbriskin/userstyles.org
 */
 
@@ -15,16 +15,16 @@
     top: 0px !important;
     left: 0px !important;
   }
-  
+
   .pane-one {
     width: 33% !important;
     min-width: 280px !important;
   }
-  
+
   .pane-two {
     width: 100% !important;
   }
-  
+
   .pane-three {
     width: 300px !important;
     left: calc(100% - 300px) !important;
@@ -87,6 +87,14 @@ div.block-compose{
 
 .input-container {
     border: 1px solid #C5C5C5 !important;
+}
+
+.drawer-header-popup {
+    background-color: #909090 !important;
+}
+
+.list-title {
+    color: #909090;
 }
 
 #wrapper:before {
