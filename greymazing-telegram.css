@@ -7,7 +7,7 @@
   https://github.com/sbriskin/userstyles.org
 */
 
-.tg_head_split, .tg_head_logo_dropdown:hover, .dropdown:hover, .tg_head_btn:hover, .dropdown-toggle:hover, .dropdown.open .tg_head_btn, .tg_head_btn:hover {
+.tg_head_split, .tg_head_logo_dropdown:hover, .dropdown:hover, .tg_head_btn:hover, .dropdown-toggle:hover, .dropdown.open .tg_head_btn, .tg_head_btn:hover, .md_modal_head {
     background: #808080 !important;
 }
 
