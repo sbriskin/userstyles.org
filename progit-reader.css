@@ -1,9 +1,11 @@
 @-moz-document url-prefix("http://git-scm.com/book"), url-prefix("https://git-scm.com/book") {
+    /*
+    ProGit Reader
 
-    /*  ProGit Reader                                           */
-    /*  http://userstyles.org/styles/98225/progit-book-reader   */
-    /*  https://github.com/sbriskin/userstyles.org              */
-
+    Source code:
+    https://userstyles.org/styles/98225/progit-book-reader
+    https://github.com/sbriskin/userstyles.org
+    */
     body {
         font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
         background: #F5F5F5 !important;
